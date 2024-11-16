@@ -6,4 +6,4 @@ Welcome!
 
 GIT
 
-SSpace
+Space
